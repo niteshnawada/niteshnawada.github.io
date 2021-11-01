@@ -1,15 +1,15 @@
 Some interesting applications
 =============================
 
-|    # | Tool                               | Purpose                               |
-|-----:|:-----------------------------------|:--------------------------------------|
-|    1.| [Namelix](https://namelix.com/)    | AI based brand/domain name generator  |
-|    2.| [Podcastle](https://podcastle.ai/) | AI based text to speech, revoice      |
-|    3.| [Uberduck](https://uberduck.ai/)   | AI based text to speech               |
-|    4.| [HyperWrite](https://hyperwriteai.com/)| AI based writing assistant        |
-|    5.| [LALAL.AI](https://www.lalal.ai/)  | AI based vocal/music extractor        |
-|    6.| [brandlance](https://brandlance.com/)| Business naming & branding services |
-|    7.| []()| |
+|    # | Tool                               | Purpose                                     |
+|-----:|:-----------------------------------|:--------------------------------------------|
+|    1.| [Namelix](https://namelix.com/)    | AI based brand/domain name generator        |
+|    2.| [Podcastle](https://podcastle.ai/) | AI based text to speech, revoice            |
+|    3.| [Uberduck](https://uberduck.ai/)   | AI based text to speech                     |
+|    4.| [HyperWrite](https://hyperwriteai.com/)| AI based writing assistant              |
+|    5.| [LALAL.AI](https://www.lalal.ai/)  | AI based vocal/music extractor              |
+|    6.| [brandlance](https://brandlance.com/)| Business naming & branding services       |
+|    7.| [Descript](https://www.descript.com/)| AI based text to speech, overdub, emotion |
 |    8.| []()| |
 |    9.| []()| |
 |   10.| []()| |
