@@ -10,9 +10,9 @@ Some interesting applications
 |    5.| [LALAL.AI](https://www.lalal.ai/)  | AI based vocal/music extractor              |
 |    6.| [brandlance](https://brandlance.com/)| Business naming & branding services       |
 |    7.| [Descript](https://www.descript.com/)| AI based text to speech, overdub, emotion |
-|    8.| []()| |
-|    9.| []()| |
-|   10.| []()| |
+|    8.| [Orange Free Sounds](https://orangefreesounds.com/)| Free Sound Effects, Music, Loops |
+|    9.| [BenSound](https://www.bensound.com/)| Royalty free music |
+|   10.| [Headline Analyzer by CoSchedule](https://coschedule.com/headline-analyzer)| Headline SEO Tool |
 |   11.| []()| |
 |   12.| []()| |
 |   13.| []()| |
