@@ -14,8 +14,8 @@ Some interesting applications
 |    9.| [BenSound](https://www.bensound.com/)| Royalty free music |
 |   10.| [Headline Analyzer by CoSchedule](https://coschedule.com/headline-analyzer)| Headline SEO Tool |
 |   11.| [SmashingLogo](https://smashinglogo.com/)| Branding - Logo Creation Tool|
-|   12.| []()| |
-|   13.| []()| |
+|   12.| [Background Remover by Icons8](https://icons8.com/bgremover)| AI Image Tool - Background remover |
+|   13.| [Writesonic](https://app.writesonic.com/)| AI based writing assistant, article generation |
 |   14.| []()| |
 |   15.| []()| |
 |   16.| []()| |
