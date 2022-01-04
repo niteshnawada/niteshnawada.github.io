@@ -16,9 +16,9 @@ Some interesting applications
 |   11.| [SmashingLogo](https://smashinglogo.com/)| Branding - Logo Creation Tool|
 |   12.| [Background Remover by Icons8](https://icons8.com/bgremover)| AI Image Tool - Background remover |
 |   13.| [Writesonic](https://app.writesonic.com/)| AI based writing assistant, article generation |
-|   14.| []()| |
-|   15.| []()| |
-|   16.| []()| |
+|   14.| [Jitter Video](https://jitter.video/)| Video - Motion graphic generation |
+|   15.| [Wow Patterns](https://www.wowpatterns.com/)| Free Patterns Marketplace, Patterns for Print Products |
+|   16.| [Unscreen](https://www.unscreen.com/)| Video - Remove background from video clip |
 |   17.| []()| |
 |   18.| []()| |
 |   19.| []()| |
