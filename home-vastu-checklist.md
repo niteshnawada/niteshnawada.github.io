@@ -1,15 +1,13 @@
-*Three Things to check mainly (Rent/Buy)*
-=========================================
+# Three Things to check mainly (Rent/Buy)
+
 1. N to E : No toilet, No kitchen
 2. S to W : No Entrance
 3. NE or W: Place for Temple
 
 
-*New Flat - Vastu Checklist*
-===========================
+# New Flat - Vastu Checklist
 
-Toilet choices
---------------
+## Toilet choices
 1. S-SW
 2. W-NW
 3. E-SE
@@ -23,25 +21,21 @@ Toilet choices
 
  * SW toilet causes Pitra Dosh
 
-Kitchen choices
----------------
+## Kitchen choices
 1. SE or W
 2. NW
 3. E
 
  * Face East while cooking.
 
-
-Entrance choices
-----------------
+## Entrance choices
 1. 
 2. 
 3. 
 
  * SW entrace (180°-245°) cause debt and money losses
 
-Flat Number
------------
+## Flat Number
 * Strict NO  for	4 or 8
 * Strict NO  for	36, 63, 18, 28, 48
 
