@@ -1,5 +1,8 @@
-Application Details
+D-505 Grace Pallacio / Home Loan
 ===
+
+Application Details
+---
 
 | -                 | Applicant                 | Co-Applicant              |
 | ----------------- | ------------------------- | ------------------------- |
@@ -19,3 +22,18 @@ Application Details
 | Req. Tenure       |                           |                  20 years |
 | Reference #1      | Name: <br>Address: <br>Mobile Number: | {{name}} <br>{{addr}} <br>{{mob}} |
 | Reference #2      | Name: <br>Address: <br>Mobile Number: | {{name}} <br>{{addr}} <br>{{mob}} |
+
+
+Files
+---
+* [Nitesh Kumar - Bank Statement (Last 8 Months).pdf](Nitesh%20Kumar%20-%20Bank%20Statement%20(Last%208%20Months).pdf)
+* [Nitesh Kumar - eAadhar (ShedgeBuilding-Pune).pdf](Nitesh%20Kumar%20-%20eAadhar%20(ShedgeBuilding-Pune).pdf)
+* [Nitesh Kumar - Form16 (FY 2022-23).pdf](Nitesh%20Kumar%20-%20Form16%20(FY%202022-23).pdf)
+* [Nitesh Kumar - Form16 (FY 2023-24).pdf](Nitesh%20Kumar%20-%20Form16%20(FY%202023-24).pdf)
+* [Nitesh Kumar - PAN (Printable).pdf](Nitesh%20Kumar%20-%20PAN%20(Printable).pdf)
+* [Nitesh Kumar - Passport.pdf](Nitesh%20Kumar%20-%20Passport.pdf)
+* [Nitesh Kumar - Salary (2024-Apr).pdf](Nitesh%20Kumar%20-%20Salary%20(2024-Apr).pdf)
+* [Nitesh Kumar - Salary (2024-Mar).pdf](Nitesh%20Kumar%20-%20Salary%20(2024-Mar).pdf)
+* [Nitesh Kumar - Salary (2024-May).pdf](Nitesh%20Kumar%20-%20Salary%20(2024-May).pdf)
+* [Prabha Kumari - Aadhar (Printable).pdf](Prabha%20Kumari%20-%20Aadhar%20(Printable).pdf)
+* [Prabha Kumari - PAN (Printable).pdf](Prabha%20Kumari%20-%20PAN%20(Printable).pdf)
