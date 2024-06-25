@@ -37,3 +37,5 @@ Files
 * [Nitesh Kumar - Salary (2024-May).pdf](Nitesh%20Kumar%20-%20Salary%20(2024-May).pdf)
 * [Prabha Kumari - Aadhar (Printable).pdf](Prabha%20Kumari%20-%20Aadhar%20(Printable).pdf)
 * [Prabha Kumari - PAN (Printable).pdf](Prabha%20Kumari%20-%20PAN%20(Printable).pdf)
+* [Nitesh Kumar - Photo (passport-size).jpg](Nitesh%20Kumar%20-%20Photo%20(passport-size).jpg)
+* [Prabha Kumari - Photo (passport-size).jpg](Prabha%20Kumari%20-%20Photo%20(passport-size).jpg)
