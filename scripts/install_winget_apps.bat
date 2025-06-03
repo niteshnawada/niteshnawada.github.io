@@ -12,11 +12,11 @@
 :: # How to use?
 :: # PowerShell:
 :: # Run the following command to download & execute from GitHub Gist:
-:: # Invoke-WebRequest -Uri "https://gist.githubusercontent.com/your-username/your-gist-id/raw/install_apps.bat" -OutFile "$env:TEMP\install_apps.bat"; Start-Process "$env:TEMP\install_apps.bat" -Wait
+:: # Invoke-WebRequest -Uri "https://raw.githubusercontent.com/niteshnawada/niteshnawada.github.io/master/scripts/install_winget_apps.bat" -OutFile "$env:TEMP\install_apps.bat"; Start-Process "$env:TEMP\install_apps.bat" -Wait
 ::
 :: # Command Prompt (CMD):
 :: # Run the following command to download & execute from GitHub Gist:
-:: # curl -o "%TEMP%\install_apps.bat" "https://gist.githubusercontent.com/your-username/your-gist-id/raw/install_apps.bat" && "%TEMP%\install_apps.bat"
+:: # curl -o "%TEMP%\install_apps.bat" "https://raw.githubusercontent.com/niteshnawada/niteshnawada.github.io/master/scripts/install_winget_apps.bat" && "%TEMP%\install_apps.bat"
 ::
 :: # Notes:
 :: # - If no input file is provided, the script will prompt to use the default list.
