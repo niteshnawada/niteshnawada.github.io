@@ -96,6 +96,12 @@ unzip awscliv2.zip
 sudo ./aws/install
 ```
 
+Let's bind the Windows (host) system `.aws` directory to Ubuntu (WSL). This makes it easy to set up credentials at once and share them across the systems.
+```bash
+ln -s /mnt/c/Users/<host-user>/.aws ~/.aws
+```
+The above command creates a soft link `~/.aws` that points to `/mnt/c/Users/<host-user>/.aws`. - That way, your WSL AWS CLI uses the same config as Windows.
+
 ### kubectl
 ```bash
 curl -LO "https://dl.k8s.io/release/$(curl -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
