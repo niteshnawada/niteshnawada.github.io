@@ -96,6 +96,40 @@ unzip awscliv2.zip
 sudo ./aws/install
 ```
 
+Let's bind the Windows (host) system `.aws` directory to Ubuntu (WSL). This makes it easy to set up credentials at once and share them across the systems.
+```bash
+ln -s /mnt/c/Users/<host-user>/.aws ~/.aws
+```
+The above command creates a soft link `~/.aws` that points to `/mnt/c/Users/<host-user>/.aws`. - That way, your WSL AWS CLI uses the same config as Windows.
+
+### Terraform with Terragrunt
+First, ensure you have 'wget' and 'unzip' installed. Otherwise, run the commands below to install
+```bash
+sudo apt-get update
+sudo apt-get install -y wget unzip
+```
+
+Now you can run the following commands to install [Terraform](https://developer.hashicorp.com/terraform/install) and [Terragrunt](https://terragrunt.gruntwork.io/docs/getting-started/install/)
+
+```bash
+# Terraform v1.4.7
+wget https://releases.hashicorp.com/terraform/1.4.7/terraform_1.4.7_linux_amd64.zip
+
+unzip terraform_1.4.7_linux_amd64.zip
+sudo mv terraform /usr/local/bin/
+```
+Verify installation with `terraform -version`
+
+```bash
+# terragrunt version v0.50.16 
+wget https://github.com/gruntwork-io/terragrunt/releases/download/v0.50.16/terragrunt_linux_amd64
+
+chmod +x terragrunt_linux_amd64
+sudo mv terragrunt_linux_amd64 /usr/local/bin/terragrunt
+```
+
+Verify installation with `terragrunt --version`
+
 ### kubectl
 ```bash
 curl -LO "https://dl.k8s.io/release/$(curl -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
